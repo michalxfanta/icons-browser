@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 24 24">
+  <path fill="var(--icon-secondary)" d="m22 12.83-10-10-10 10h2.499v8.336h5.832v-4.168h3.333v4.168h5.832V12.83h2.499zm-4.168 6.667h-2.499v-4.168H8.666v4.168H6.167v-8.549l5.832-5.761 5.832 5.827v8.487z"/>
+  <path fill="#FA6831" d="M18.667872 7.910682v-4.24409h-2.503776v1.745056z"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg 
+  xmlns="http://www.w3.org/2000/svg" 
+  width="64" height="64" 
+  fill-rule="evenodd" 
+  clip-rule="evenodd" 
+  image-rendering="optimizeQuality" 
+  shape-rendering="geometricPrecision" text-rendering="geometricPrecision" 
+  viewBox="0 0 571.43 571.43">
+  <path fill="#fa6831" d="M483.19 211.05L543.46 150.6 421.49 28.64 361.24 89.08z"></path>
+  <path fill="var(--icon-secondary)" d="M330.83 119.3l-270.9 270.9 -30.76 152.72 152.72 -30.76 270.9 -270.9 -121.96 -121.96 0 0zm0 60.62l61.34 61.34 -231.51 231.51 -76.81 15.47 15.47 -76.81 231.51 -231.51 0 0z"></path>
+</svg>

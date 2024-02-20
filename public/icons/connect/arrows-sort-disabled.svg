@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <path
+     fill="var(--sort-icon-disabled-arrow)"
+     d="M 20.856787,14.793738 18.763049,12.7 11.967289,19.614844 5.1768605,12.7 3.0831229,14.793738 11.967289,23.804985 Z"
+     id="path2"
+     style="stroke-width:0.888683" />
+  <path
+     fill="var(--sort-icon-disabled-arrow)"
+     d="m 3.0819217,9.308769 2.0949388,2.094939 6.7930045,-6.91383 6.786784,6.91383 L 20.851588,9.308769 11.969865,0.3 Z"
+     id="path2-8"
+     style="stroke-width:0.888438" />
+</svg>
